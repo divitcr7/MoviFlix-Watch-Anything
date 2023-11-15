@@ -1,5 +1,5 @@
 
-# NextFlix - A Next.js Movie Streaming App
+# MovieFlix - A Next.js Movie Streaming App
 
 This is a movie streaming application built with Next.js, React, and TypeScript that serves as a clone of popular streaming services like Netflix and Crunchyroll. 
 
