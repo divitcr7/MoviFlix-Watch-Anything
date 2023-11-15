@@ -10,6 +10,14 @@ This is a movie streaming application built with Next.js, React, and TypeScript 
 - View trailers and clips
 - Read descriptions, ratings, reviews and more for each title
 
+## Some Screenshots
+![image](https://github.com/divitcr7/MoviFlix-Watch-Anything/assets/67183559/d17dde38-260a-4d23-b228-ba68556cf856)
+![image](https://github.com/divitcr7/MoviFlix-Watch-Anything/assets/67183559/547914d1-0a29-4892-ac3f-7c5741ba1846)
+![image](https://github.com/divitcr7/MoviFlix-Watch-Anything/assets/67183559/4b23f357-7f48-4cea-86db-b7af8645abe2)
+![image](https://github.com/divitcr7/MoviFlix-Watch-Anything/assets/67183559/c84d3d9e-13fc-48c9-9c8e-6409876bf613)
+![Uploading image.png…]()
+
+
 ## Tech Stack
 
 - [Next.js](https://nextjs.org/) - Framework for building server-rendered React apps
