@@ -1,4 +1,3 @@
-Here is an enhanced readme.md for your Next.js movie application:
 
 # NextFlix - A Next.js Movie Streaming App
 
