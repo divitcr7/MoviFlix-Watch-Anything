@@ -2,6 +2,7 @@
 # MovieFlix - A Next.js Movie Streaming App
 
 This is a movie streaming application built with Next.js, React, and TypeScript that serves as a clone of popular streaming services like Netflix and Crunchyroll. 
+I could use Extrernal APIs to stream the videos as well but a No to Piracy!
 
 ## Features
 
@@ -15,7 +16,6 @@ This is a movie streaming application built with Next.js, React, and TypeScript 
 ![image](https://github.com/divitcr7/MoviFlix-Watch-Anything/assets/67183559/547914d1-0a29-4892-ac3f-7c5741ba1846)
 ![image](https://github.com/divitcr7/MoviFlix-Watch-Anything/assets/67183559/4b23f357-7f48-4cea-86db-b7af8645abe2)
 ![image](https://github.com/divitcr7/MoviFlix-Watch-Anything/assets/67183559/c84d3d9e-13fc-48c9-9c8e-6409876bf613)
-![Uploading image.png…]()
 
 
 ## Tech Stack
